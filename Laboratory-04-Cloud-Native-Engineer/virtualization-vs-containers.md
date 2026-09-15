@@ -1,1 +1,0 @@
-# Virtualization vs Containers
